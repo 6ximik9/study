@@ -1,0 +1,11 @@
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\bin\Debug\lb9.exe.config
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\bin\Debug\lb9.exe
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\bin\Debug\lb9.pdb
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.csprojAssemblyReference.cache
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.Form1.resources
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.Properties.Resources.resources
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.csproj.GenerateResource.cache
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.csproj.CoreCompileInputs.cache
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.exe
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.pdb
+D:\КН-21\Лабораторні роботи C#\Лабораторна робота №9\lb9\lb9\obj\Debug\lb9.FrmInd.resources

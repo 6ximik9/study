@@ -1,0 +1,10 @@
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\bin\x86\Debug\Kursova(Rl).exe.config
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\bin\x86\Debug\Kursova(Rl).exe
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\bin\x86\Debug\Kursova(Rl).pdb
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova_Rl_.FrmMain.resources
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova_Rl_.FrmReg.resources
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova_Rl_.Properties.Resources.resources
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova(Rl).csproj.GenerateResource.cache
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova(Rl).csproj.CoreCompileInputs.cache
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova(Rl).exe
+D:\КН-21\Kursova(Rl)\Kursova(Rl)\Kursova(Rl)\obj\x86\Debug\Kursova(Rl).pdb

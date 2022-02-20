@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\bin\Release\ZaminaText(Kursova).exe.config
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\bin\Release\ZaminaText(Kursova).exe
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\bin\Release\ZaminaText(Kursova).pdb
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText(Kursova).csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText_Kursova_.ReplaceText.resources
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText_Kursova_.Properties.Resources.resources
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText(Kursova).csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText(Kursova).exe
+C:\Users\Dell\Desktop\ZaminaText(Kursova)\ZaminaText(Kursova)\obj\Release\ZaminaText(Kursova).pdb

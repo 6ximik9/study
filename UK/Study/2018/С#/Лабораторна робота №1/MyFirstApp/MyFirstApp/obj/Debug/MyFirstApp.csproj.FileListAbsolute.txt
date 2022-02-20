@@ -1,0 +1,10 @@
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\КН-21\Лабораторні роботи C#\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb

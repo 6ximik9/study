@@ -1,0 +1,21 @@
+; #fasm#
+;     name "h1"
+org  100h  
+jm start
+msg:db "Hello, Word"
+star: mov dx, msg
+      mov ah, 09h
+      int 21h
+      mov ah, 0
+      int 16h
+
+ret
+
+
+
+
+
+
+
+; [SOURCE]: D:\KH\31\Asm\Lb1\mycode.asm
+
