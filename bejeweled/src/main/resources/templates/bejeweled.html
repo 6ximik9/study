@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
+    <link rel="stylesheet" href="/bejeweledStyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<!--<h1>Bejeweled</h1>-->
+<div class="nameGame"></div>
+<div id="content">
+    <div id="left">
+        <table id="game-board"></table>
+    </div>
+    <div id="right">
+        <div id="game-info">
+            <div id="player">Player: </div>
+            <div id="timer">Time: 120s</div>
+            <div id="score">Score: 0</div>
+            <div class="popup-content-game">
+                <button id="start-btn">Start</button>
+                <button id="log-btn">Log out</button>
+            </div>
+            <div class="rating-div">
+                <table id="rating"></table>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="center-content">
+    <div class="text-rating">Game rating</div>
+    <div class="center-rating-show">
+        <div class="simple-rating-show">
+            <div class="simple-rating_items-show">
+                <input id="simple-rating_5-show" type="radio" class="simple-rating_item-show" name="simple-rating-show" value="5">
+                <label for="simple-rating_5-show" class="simple-rating_label-show"></label>
+                <input id="simple-rating_4-show" type="radio" class="simple-rating_item-show" name="simple-rating-show" value="4">
+                <label for="simple-rating_4-show" class="simple-rating_label-show"></label>
+                <input id="simple-rating_3-show" type="radio" class="simple-rating_item-show" name="simple-rating-show" value="3">
+                <label for="simple-rating_3-show" class="simple-rating_label-show"></label>
+                <input id="simple-rating_2-show" type="radio" class="simple-rating_item-show" name="simple-rating-show" value="2">
+                <label for="simple-rating_2-show" class="simple-rating_label-show"></label>
+                <input id="simple-rating_1-show" type="radio" class="simple-rating_item-show" name="simple-rating-show" value="1">
+                <label for="simple-rating_1-show" class="simple-rating_label-show"></label>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="bot">
+    <div id="commentsD" >
+        <table id="comments">
+        </table>
+    </div>
+    <div id="divReview">
+        <button id="modal-review">Review</button>
+    </div>
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Review and rating</h2>
+            </div>
+            <div class="modal-body">
+                <div class="simple-rating">
+                    <div class="simple-rating_items">
+                        <input id="simple-rating_5" type="radio" class="simple-rating_item" name="simple-rating" value="5">
+                        <label for="simple-rating_5" class="simple-rating_label"></label>
+                        <input id="simple-rating_4" type="radio" class="simple-rating_item" name="simple-rating" value="4">
+                        <label for="simple-rating_4" class="simple-rating_label"></label>
+                        <input id="simple-rating_3" type="radio" class="simple-rating_item" name="simple-rating" value="3">
+                        <label for="simple-rating_3" class="simple-rating_label"></label>
+                        <input id="simple-rating_2" type="radio" class="simple-rating_item" name="simple-rating" value="2">
+                        <label for="simple-rating_2" class="simple-rating_label"></label>
+                        <input id="simple-rating_1" type="radio" class="simple-rating_item" name="simple-rating" value="1">
+                        <label for="simple-rating_1" class="simple-rating_label"></label>
+                    </div>
+                </div>
+                <div>
+                    <textarea id="textComment" rows="10" cols="35"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div id="contentButtonSend"><button id="sendData">Submit</button></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="lock">
+    <div class="start-menu">
+        <h2>Select the difficulty level</h2>
+        <div class="difficulty-buttons">
+            <button id="easy-btn">Easy</button>
+            <button id="normal-btn">Normal</button>
+            <button id="hard-btn">Hard</button>
+        </div>
+        <div id="difficulty-description">
+            <p style="background-color: #004600; border-radius: 10px; padding: 5px;">
+                Easy level. Points without benefits
+            </p>
+            <p style="background-color: #a6a600; border-radius: 10px; padding: 5px;">
+                Normal level, points with x2 bonus. 25 points are removed for a wrong move
+            </p>
+            <p style="background-color: #560000; border-radius: 10px; padding: 5px;">
+                Hard level, points with bonus x3. 50 points are removed for a wrong move
+            </p>
+        </div>
+
+    </div>
+</div>
+
+
+<script src="/script.js"></script>
+</body>
+</html>
